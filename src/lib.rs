@@ -81,3 +81,5 @@ fn click_element(element: &Element)-> Result<(), JsValue>{
         .click();
     Ok(())
 }
+
+//M1
