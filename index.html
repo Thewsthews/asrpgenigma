@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto-Swipe RPG</title>
+</head>
+<body>
+    <h1>Auto-Swipe RPG Script</h1>
+    <p>Auto-swiping monsters and upgrades...</p>
+    <!-- Example DOM elements for testing -->
+    <div class="monster">Monster 1</div>
+    <div class="monster">Monster 2</div>
+    <button class="upgrade">Buy Upgrade 1</button>
+    <button class="upgrade" disabled>Buy Upgrade 2 (Disabled)</button>
+
+    <script type="module">
+        import init, { run } from './pkg/atsrpg.js';
+        async function main() {
+            await init();
+            run();
+        }
+        main();
+    </script>
+</body>
+</html>
