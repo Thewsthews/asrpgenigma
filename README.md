@@ -52,7 +52,8 @@ Access at http://localhost:8080.
 # Test the Script:
 
 Open http://localhost:8080 in a browser.
-Check the console (F12, "Console" tab) for logs like:Clicked monster #0
-Clicked upgrade #0
+Check the console (F12, "Console" tab) for logs like: 
+- Clicked monster #0
+- Clicked upgrade #0
 
 # Tihihi :)
