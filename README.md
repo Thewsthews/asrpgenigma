@@ -56,4 +56,4 @@ Check the console (F12, "Console" tab) for logs like:
 - Clicked monster #0
 - Clicked upgrade #0
 
-# Tihihi :)
+# Tihihi :) 
