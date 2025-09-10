@@ -1,4 +1,4 @@
-# asrpgenigma
+# asrpgenigma :)
 
 # Auto-Swipe RPG Script
 This project provides a WebAssembly (WASM) script to automate swiping/clicking monsters and upgrades in a web-based RPG game. The script uses wasm-bindgen to interact with the browser's DOM, periodically clicking elements like monsters (e.g., .monster) and upgrades (e.g., .upgrade).
